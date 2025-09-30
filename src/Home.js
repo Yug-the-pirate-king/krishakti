@@ -68,7 +68,7 @@ const Home = () => {
       </main>
       <footer className="text-center text-sm text-gray-500 pb-8 mt-8 border-t border-green-100 pt-6 bg-white/80">
         &copy; {new Date().getFullYear()} Krishakti. All rights reserved. | Made with <span className="text-green-600">&#10084;</span> for farmers<br />
-        <span className="text-xs text-gray-400">Made by Yug Shah (temporary)</span>
+        <span className="text-xs text-gray-400">Made by Yug Shah🦋(temporary)</span>
       </footer>
     </div>
   );
