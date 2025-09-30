@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krishakti/static/css/main.73ae5a06.css",
+    "main.js": "/krishakti/static/js/main.4731c587.js",
+    "static/js/453.1a0cebb9.chunk.js": "/krishakti/static/js/453.1a0cebb9.chunk.js",
+    "index.html": "/krishakti/index.html",
+    "main.73ae5a06.css.map": "/krishakti/static/css/main.73ae5a06.css.map",
+    "main.4731c587.js.map": "/krishakti/static/js/main.4731c587.js.map",
+    "453.1a0cebb9.chunk.js.map": "/krishakti/static/js/453.1a0cebb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ae5a06.css",
+    "static/js/main.4731c587.js"
+  ]
+}
